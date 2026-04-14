@@ -42,4 +42,4 @@ void main(){
 }
 ```
 
-![Fluxograma](./atendimento.png)
+![Fluxograma](./triagem.png)
