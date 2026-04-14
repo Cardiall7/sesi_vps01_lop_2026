@@ -6,11 +6,10 @@ Arquivos gerados durante a avaliaçâo de Lógica de Programaçâo, algoritima e
 
 |Tecnologia|Utilidade|
 |:-:|-|
-|Linguagem C 
-|IDE Embarcadero Dev C++
-|Draw.io para desenhar de fluxograma 
-|Bloco de notas para portugal
-
+|Linguagem **C** |Desenvolvimento|
+|IDE |Embarcadero **Dev C++**|
+|Draw.io para |Desenhar de *fluxograma*| 
+|Bloco de notas para |*portugal* logica|
 ## Como Testar 
 . 1 clone este repositor 
 . 2 Abra os arquivos .c como DevC++
