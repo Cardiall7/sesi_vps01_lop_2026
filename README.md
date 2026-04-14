@@ -41,3 +41,5 @@ void main(){
     getch();
 }
 ```
+
+![Fluxograma](./atendimento.png)
