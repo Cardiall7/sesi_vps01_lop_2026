@@ -3,10 +3,13 @@
 Arquivos gerados durante a avaliaçâo de Lógica de Programaçâo, algoritima e fluxograma
 
 ## Tecnologias 
-. Linguagem C 
-. IDE Embarcadero Dev C++
-. Draw.io para desenhar de fluxograma 
-. Bloco de notas para portugal
+
+|Tecnologia|Utilidade|
+|:-:|-|
+|Linguagem C 
+|IDE Embarcadero Dev C++
+|Draw.io para desenhar de fluxograma 
+|Bloco de notas para portugal
 
 ## Como Testar 
 . 1 clone este repositor 
